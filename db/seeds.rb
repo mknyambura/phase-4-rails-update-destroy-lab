@@ -26,7 +26,6 @@ Plant.create!([
     is_in_stock: true
   },
   {
-    id: 5,
     name: 'Jade',
     image: './images/jade.jpg',
     price: 10.37,
